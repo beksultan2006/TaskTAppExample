@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="newTaskFragment" type="id" />
+    <item name="authFragment" type="id" />
+    <item name="navigation_profile" type="id" />
+    <item name="onBoardFragment" type="id" />
+</resources>
